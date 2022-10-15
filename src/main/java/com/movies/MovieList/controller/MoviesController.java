@@ -18,4 +18,12 @@ public class MoviesController {
         List<Movies> movies = repository.findAll();
         return movies.toString();
     }
+    /**
+     * TODO: implement /addmovie and / deleteMovie
+     * HINT: look into  h2 databases and Post methods
+     * HINT: lok into controller model repository design pattern
+     */
+
+
+
 }

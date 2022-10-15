@@ -9,4 +9,5 @@ import java.util.List;
 @Repository
 public interface MoviesRepository extends JpaRepository<Movies,Integer> {
 
+
 }
